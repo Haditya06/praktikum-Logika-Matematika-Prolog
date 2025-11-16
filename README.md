@@ -12,3 +12,5 @@ Hello World
 ```
 
 variable nl berguna sebagai enter di prolog kalau java biasa kita menggunakan \n
+
+olk
