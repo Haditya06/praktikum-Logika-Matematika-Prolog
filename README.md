@@ -7,7 +7,7 @@ Input :
 write('Hello World').
 Output :
 Hello World
-```
+``` 
 di akhir code pasti di akhiri dengan titik
 susahh bangett sehh
 
